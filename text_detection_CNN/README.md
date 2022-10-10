@@ -1,1 +1,1 @@
-#Text Detection Using a Convolutional Neural Network
+# Text Detection Using a Convolutional Neural Network
